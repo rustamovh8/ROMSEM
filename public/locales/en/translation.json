@@ -1,0 +1,99 @@
+{
+  "header1": {
+    "h1": "About Us",
+    "h2": "Courses",
+    "h3": "Events",
+    "h4": "Blog",
+    "h5": "Contacts"
+  },
+  "section1": {
+    "h1": "Play showreel",
+    "h2": "Enjoy studying with Createx Online Courses",
+    "h3": "Explore courses",
+    "h4": "Students graduated",
+    "h5": "Completed courses",
+    "h6": "Qualified tutors",
+    "h7": "Years of experience"
+  },
+  "sec2": {
+    "h1": "Who we are",
+    "h2": "Why Createx?",
+    "h3": "A fermentum in morbi pretium aliquam adipiscing donec tempus.",
+    "h4": "Vulputate placerat amet pulvinar lorem nisl.",
+    "h5": "Consequat feugiat habitant gravida quisque elit bibendum id adipiscing sed.",
+    "h6": "Etiam duis lobortis in fames ultrices commodo nibh.",
+    "h7": "Tincidunt sagittis neque sem ac eget.",
+    "h8": "Ultricies amet justo et eget quisque purus vulputate dapibus tortor.",
+    "h9": "More about us"
+  },
+  "sec3": {
+    "h1": "Ready to learn?",
+    "h2": "Featured Courses",
+    "h3": "View all courses",
+    "h4": "Marketing",
+    "h5": "The Ultimate Google Ads Training Course",
+    "h6": "by Jerome Bell"
+  },
+  "sec4": {
+    "h1": "Our benefits",
+    "h2": "That’s how we do it",
+    "h3": "Experienced Tutors",
+    "h4": "Feedback & Support",
+    "h5": "24/7 Online Library",
+    "h6": "Community",
+    "h7": "Only practicing tutors",
+    "h8": "Urna nisi, arcu cras nunc. Aenean quam est lobortis mi non fames dictum suspendisse. Morbi mauris cras massa ut dolor quis sociis mollis augue. Nunc, sodales tortor sit diam mi amet massa. Fermentum diam diam sociis vestibulum. Nulla nisl accumsan, id dignissim massa ut amet. Amet enim, nisi tempus vehicula."
+  },
+  "sec5": {
+    "h1": "Our Events",
+    "h2": "Lectures & workshops",
+    "h3": "August ",
+    "h4": "Formation of the organizational structure of the company in the face of uncertainty.",
+    "h5": "View more",
+    "h6": "Onine master-class",
+    "h7": "July",
+    "h8": "Building a customer service department. Best Practices.",
+    "h11": "How to apply methods of speculative design in practice. Worldbuilding prototyping.",
+    "h13": "Onine workshop",
+    "h14": "Do you want more?",
+    "h15": "Explore all events"
+  },
+  "sec6": {
+    "h1": "Createx Certificate",
+    "h2": "Your expertise will be confirmed",
+    "h3": "We are accredited by international professional organizations and institutes:"
+  },
+  "sec7": {
+    "h1": "Best tutors are all here",
+    "h2": "Meet our team",
+    "h3": "Dianne Russell",
+    "h4": "Founder and CEO",
+    "h5": "Jerome Bell",
+    "h6": "Founder and Program Director",
+    "h7": "Kristin Watson",
+    "h8": "Marketer, Curator of Marketing Course",
+    "h9": "Marvin McKinney",
+    "h10": "PM, Curator of Management Course"
+  },
+  "footer": {
+    "h1": "Createx Online School is a leader in online studying. We have lots of courses and programs from the main market experts. We provide relevant approaches to online learning, internships and employment in the largest companies in the country.",
+    "h2": "SITE MAP",
+    "h3": "About Us",
+    "h4": "Courses",
+    "h5": "Events",
+    "h6": "Blog",
+    "h7": "Contacts",
+    "h8": "COURSES",
+    "h9": "Marketing",
+    "h10": "Management",
+    "h11": "HR & Recruting",
+    "h12": "Design",
+    "h13": "Development",
+    "h14": "CONTACT US",
+    "h15": "hello@createx.com",
+    "h16": "SIGN UP TO OUR NEWSLETTER",
+    "h17": "*Subscribe to our newsletter to receive communications and early updates from Createx SEO Agency.",
+    "h19": "© All rights reserved.Made with by Createx Studio",
+    "h20": "GO TO TOP"
+  }
+}
